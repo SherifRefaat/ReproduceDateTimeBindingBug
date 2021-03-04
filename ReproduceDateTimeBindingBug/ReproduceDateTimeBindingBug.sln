@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproduceDateTimeBindingBug", "ReproduceDateTimeBindingBug.csproj", "{22298B30-639E-4298-B0CF-AC7B603B308C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22298B30-639E-4298-B0CF-AC7B603B308C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22298B30-639E-4298-B0CF-AC7B603B308C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22298B30-639E-4298-B0CF-AC7B603B308C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22298B30-639E-4298-B0CF-AC7B603B308C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A882E6C-92D7-41DC-86F5-0680FA379B09}
+	EndGlobalSection
+EndGlobal
